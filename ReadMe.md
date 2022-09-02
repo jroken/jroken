@@ -1,11 +1,9 @@
-# My Website 
-http://haqancoder.xyz
+### ⚡ Jroken
+<img src="https://user-images.githubusercontent.com/90040826/152173692-8b11058a-9e34-4d37-9351-5a2a880958d2.gif"  width="290"> <!-- <img src="https://user-images.githubusercontent.com/90040826/151799722-efc852f2-f75b-4b22-8d2c-df35515bda22.gif"  width="270"> -->
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/hakab#7632) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hakanburning) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/hakanburning) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-
+<h2><em>📫 contact me:</h2></em>
+<li><a target="_blank" href="http://haqancoder.xyz/">Website</a></li>
+<li><a :bulb: href="https://instagram.com/hakanburning" target="_blank"><img height="25px" src="https://camo.githubusercontent.com/b59e687de7d4f68dab32dcab6ce5123a9deaf123853d968bcc2f9d2b4b3f088f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f652f65372f496e7374616772616d5f6c6f676f5f323031362e7376672f37363870782d496e7374616772616d5f6c6f676f5f323031362e7376672e706e67" title="instagram" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" style="max-width: 100%;"></a> <b>Instagram</b></li>
+  
 ---
 [![](https://visitcount.itsvg.in/api?id=jroken&icon=0&color=1)](https://visitcount.itsvg.in)
