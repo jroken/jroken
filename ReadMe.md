@@ -1,5 +1,5 @@
 ### ⚡ Jroken
-<img src="[https://user-images.githubusercontent.com/90040826/152173692-8b11058a-9e34-4d37-9351-5a2a880958d2.gif](https://i.pinimg.com/564x/94/ca/f3/94caf319debe81e68e12b78d036cf7aa.jpg)"  width="290"> <!-- <img src="https://user-images.githubusercontent.com/90040826/151799722-efc852f2-f75b-4b22-8d2c-df35515bda22.gif"  width="270"> -->
+<img src="https://i.pinimg.com/564x/94/ca/f3/94caf319debe81e68e12b78d036cf7aa.jpg"  width="290"> <!-- <img src="https://user-images.githubusercontent.com/90040826/151799722-efc852f2-f75b-4b22-8d2c-df35515bda22.gif"  width="270"> -->
 
 <h2><em>📫 contact me:</h2></em>
 <li><a target="_blank" href="http://haqancoder.xyz/">Website</a></li>
